@@ -100,6 +100,8 @@ class ShareModal extends Modal {
     this.area.addEventListener("input", () => this.refresh());
     this.refresh();
     this.area.focus();
+    this.area.setSelectionRange(0, 0);
+    this.area.scrollTop = 0;
   }
 
   picked() {

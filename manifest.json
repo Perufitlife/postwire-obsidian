@@ -1,7 +1,7 @@
 {
   "id": "postwire-social-share",
   "name": "PostWire Social Share",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "minAppVersion": "1.4.0",
   "description": "Post the current note or the selected text to your connected social media accounts through PostWire.",
   "author": "PostWire",
